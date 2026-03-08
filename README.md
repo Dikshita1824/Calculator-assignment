@@ -50,15 +50,7 @@ The app performs basic arithmetic operations and also includes a **Splash Screen
 
 ## 📸 Output Screenshot
 
-(Add your screenshot here)
-
-Example:
-
-```
-![Calculator Output](screenshot.png.png)
-```
-
----
+![Calculator Output](./screenshot.png.png)
 
 ## 👩‍💻 Author
 
