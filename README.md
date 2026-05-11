@@ -50,9 +50,9 @@ The app performs basic arithmetic operations and also includes a **Splash Screen
 
 ## 📸 Output Screenshot
 
-![Calculator Output](./screenshot3.png)
-![Calculator Output](./screenshot2.png)
-![Calculator Output](./screenshot1.png)
+![Calculator Output]<img width="361" height="729" alt="Screenshot 3" src="https://github.com/user-attachments/assets/134dc8aa-2d4f-4242-8360-0e0305dcfb87" />
+
+
 ## 👩‍💻 Author
 
 **Dikshita**
