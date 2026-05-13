@@ -51,6 +51,7 @@ The app performs basic arithmetic operations and also includes a **Splash Screen
 ## 📸 Output Screenshot
 
 SPLASH SCREEN 
+
 <img width="361" height="729" alt="Screenshot 3" src="https://github.com/user-attachments/assets/134dc8aa-2d4f-4242-8360-0e0305dcfb87" />
 
 <img width="358" height="804" alt="Screenshot 2" src="https://github.com/user-attachments/assets/21a47b6d-9290-408e-955f-ebc034e3d734" />
