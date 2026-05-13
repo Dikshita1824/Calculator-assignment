@@ -54,7 +54,11 @@ SPLASH SCREEN
 
 <img width="361" height="729" alt="Screenshot 3" src="https://github.com/user-attachments/assets/134dc8aa-2d4f-4242-8360-0e0305dcfb87" />
 
+
+
 <img width="358" height="804" alt="Screenshot 2" src="https://github.com/user-attachments/assets/21a47b6d-9290-408e-955f-ebc034e3d734" />
+
+
 
 <img width="362" height="812" alt="Screenshot 1" src="https://github.com/user-attachments/assets/389f5e6d-7cc0-440d-b610-f5a3fa8ac029" />
 
